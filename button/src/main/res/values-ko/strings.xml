@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strBtn1">1번 버튼</string>
+    <string name="strBtn2">2번 버튼</string>
+    <string name="strBtn3">3번 버튼</string>
+    <string name="strBtn4">4번 버튼</string>
+    <string name="btnClick">버튼 클릭</string>
+</resources>
