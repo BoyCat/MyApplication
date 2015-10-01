@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="q1">선택을 시작하겠습니까?</string>
+    <string name="q2">좋아하는 안드로이드 버전은?</string>
+    <string name="start">시작함</string>
+    <string name="jelly">젤리빈(4.3)</string>
+    <string name="kit">킷켓(4.4)</string>
+    <string name="lolli">롤리팝(5.0)</string>
+    <string name="exitbtn">종료</string>
+    <string name="homebtn">처음으로</string>
+</resources>
