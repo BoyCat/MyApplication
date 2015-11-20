@@ -107,13 +107,13 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         switch(rg.getCheckedRadioButtonId()){
             case R.id.radio1:
-                img.setImageResource(R.drawable.jelly);
+                img.setImageResource(R.mipmap.jelly);
                 break;
             case R.id.radio2:
-                img.setImageResource(R.drawable.kit);
+                img.setImageResource(R.mipmap.kit);
                 break;
             case R.id.radio3:
-                img.setImageResource(R.drawable.lolli);
+                img.setImageResource(R.mipmap.lolli);
                 break;
         }
     }

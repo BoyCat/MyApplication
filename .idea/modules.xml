@@ -3,12 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/button/button.iml" filepath="$PROJECT_DIR$/button/button.iml" />
       <module fileurl="file://$PROJECT_DIR$/calc/calc.iml" filepath="$PROJECT_DIR$/calc/calc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calc/calc.iml" filepath="$PROJECT_DIR$/calc/calc.iml" />
       <module fileurl="file://$PROJECT_DIR$/image/image.iml" filepath="$PROJECT_DIR$/image/image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
     </modules>
   </component>
 </project>
