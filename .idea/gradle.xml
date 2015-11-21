@@ -9,13 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/button" />
-            <option value="$PROJECT_DIR$/calc" />
             <option value="$PROJECT_DIR$/calc2" />
-            <option value="$PROJECT_DIR$/dialog" />
-            <option value="$PROJECT_DIR$/image" />
-            <option value="$PROJECT_DIR$/intent" />
           </set>
         </option>
       </GradleProjectSettings>
