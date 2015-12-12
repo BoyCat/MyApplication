@@ -1,1 +1,1 @@
-include ':calc2', ':calc2', ':diary'
+include ':calc2', ':calc2', ':diary', ':adapter'
